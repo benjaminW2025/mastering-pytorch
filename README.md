@@ -1,5 +1,5 @@
 # Mastering Pytorch
-This repository is a collection of puzzle-like mini projects that aim to provide me with fluency of Pytorch. Each week provides me with a new concept and experiment to tackle.
+This repository is a collection of puzzle-like mini projects that aim to provide me with fluency of Pytorch. Each puzzle provides me with a new concept and experiment to tackle.
 
 See 'journal.md' for updates to my learning journey.
 
